@@ -2,7 +2,7 @@
 
 The purpose of this repository is to provide customized code written by Junjie Zhu used in the single cell RNA-seq analysis for the manuscript:
 
-"Progenitor identification and SARS-CoV-2 infection in long-term human distal lung organoid cultures" published as a pre-print at https://www.biorxiv.org/content/10.1101/2020.07.27.212076v1
+<a href="https://www.biorxiv.org/content/10.1101/2020.07.27.212076v1"> Progenitor identification and SARS-CoV-2 infection in long-term human distal lung organoid cultures</a> 
 
 The processed gene expression data can be downloaded from: 
 
